@@ -1,4 +1,4 @@
-# LITA-CLASS-DATA
+# LITA-CLASS-DOCUMENTATION
 Where i documented my milestone during my data analysis training at LITA Africa
 
 ### Project Title: Incubator Hub Milestone
