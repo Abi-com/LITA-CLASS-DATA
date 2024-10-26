@@ -122,6 +122,15 @@ Pivot Tables for Each Data set
 
 ![LITA Capstone Dataset - Excel 10_26_2024 10_43_18 PM](https://github.com/user-attachments/assets/06249ead-f94d-4dd2-a969-7bfe7f4478c2) customer data
 
+Calculations in Both data set
+---
+Total sale = Quantity * Unit price
+Average Total sale = Total sale / Product Quantity
+Overall Quantity = SUM(F2:F9922)
+Overall Total Sales= sum of total sale in each rigion
+Average sale per product = overall total sales / Total quantity
+
+
 
 
 
