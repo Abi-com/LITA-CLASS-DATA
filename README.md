@@ -111,3 +111,10 @@ Steps taken in excel
 - Created pivot table for different visualisation needs
 - create report
 
+![LITA Capstone Dataset - Excel 10_26_2024 10_31_59 PM](https://github.com/user-attachments/assets/168e4efe-3ecc-4027-8eeb-fca062caf501)
+Sale data
+
+![LITA Capstone Dataset - Excel 10_26_2024 10_32_37 PM](https://github.com/user-attachments/assets/c210242c-3a35-45a7-ba1e-95edd64535b9) Cuctomer data
+
+
+
