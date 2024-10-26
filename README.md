@@ -124,11 +124,11 @@ Pivot Tables for Each Data set
 
 Calculations in Both data set
 ---
-Total sale = Quantity * Unit price
-Average Total sale = Total sale / Product Quantity
-Overall Quantity = SUM(F2:F9922)
-Overall Total Sales= sum of total sale in each rigion
-Average sale per product = overall total sales / Total quantity
+- Total sale = Quantity * Unit price
+- Average Total sale = Total sale / Product Quantity
+- Overall Quantity = SUM(F2:F9922)
+- Overall Total Sales= sum of total sale in each rigion
+- Average sale per product = overall total sales / Total quantity
 
 
 
