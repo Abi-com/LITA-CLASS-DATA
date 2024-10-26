@@ -118,7 +118,9 @@ Sale data
 
 Pivot Tables for Each Data set
 ---
-![LITA Capstone Dataset - Excel 10_26_2024 10_43_58 PM](https://github.com/user-attachments/assets/409da653-6797-495c-8b21-184c39322a64)Sale data
+![LITA Capstone Dataset - Excel 10_26_2024 10_43_58 PM](https://github.com/user-attachments/assets/409da653-6797-495c-8b21-184c39322a64) 
+![LITA Capstone Dataset - Excel 10_26_2024 10_44_22 PM](https://github.com/user-attachments/assets/766d10ca-e540-41e5-b14d-c57337d67a74)
+Sale data
 
 ![LITA Capstone Dataset - Excel 10_26_2024 10_43_18 PM](https://github.com/user-attachments/assets/06249ead-f94d-4dd2-a969-7bfe7f4478c2) customer data
 
@@ -132,6 +134,15 @@ Calculations in Both data set
 
 Visualisation For both Data Set
 ---
+![LITA Capstone Dataset - Excel 10_26_2024 11_36_27 PM](https://github.com/user-attachments/assets/654fd176-0d7b-4e8a-b4f1-e79cd811fcbf)
+![LITA Capstone Dataset - Excel 10_26_2024 11_36_45 PM](https://github.com/user-attachments/assets/7fdccd73-a381-49e6-ba92-e7963165e8c9)Sale Data
+
+![LITA Capstone Dataset - Excel 10_26_2024 11_35_21 PM](https://github.com/user-attachments/assets/8dc87606-bc85-4fcc-bf3d-25587b617a34)
+![LITA Capstone Dataset - Excel 10_26_2024 11_35_44 PM](https://github.com/user-attachments/assets/c48eac5f-c17c-4041-8dda-8ade390c37e6) Customer Data
+
+
+
+
 
 
 
