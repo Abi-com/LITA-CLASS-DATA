@@ -98,6 +98,16 @@ the company should create a car   development plan for it employees, so they can
 #LITA_CAPSTONE_PROJECT_DOCUMENTATION
 ---
 I documented my final project here, where i worked on a sale data and customer data set through the series of excel, sql then power Bi. Data set link is down below for your personal use
-
+These data contain two data set for:
+1. sales data- which show the selling purchase of different product at different regions
+2. Customer data- Which customer behaviour to TV Subscription over a certain period of time
 [Download here]_https://docs.google.com/spreadsheets/d/12yT7pnZz6-XUSfskManIIpcUO7EBY82i?rtpof=true&usp=drive_fs
+
+Steps taken in excel
+---
+- Loaded the data
+- Cleanedbthe data
+- Removed duplicate
+- Created pivot table for different visualisation needs
+- create report
 
