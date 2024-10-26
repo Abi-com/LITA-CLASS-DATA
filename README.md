@@ -40,14 +40,16 @@ EDA involves the exploring of data to answer some question about the Data such a
 ---
 ![image](https://github.com/user-attachments/assets/71c485af-2b82-4bef-a9f7-451a566471c6)
 
+
 **#LITA_POWER BI_ DOCUNENTATION**
+
 ###BI Class Preview
 ---
 We went through data entry, Data cleaning using a columinal data. practise Power BI using an HR data
 
 ###HR Data Source
 ---
-This data was  downloaded as an CSV file. The data contained document and information about a companyemployee,stating each employee businesstravel,age band,department,gender, educational field, job role, marital starus etc....
+This data was  downloaded as an CSV file. The data contained document and information about a companyemployee,stating each employee businesstravel,age band,department,gender, educational field, job role,Attrition, marital starus etc....
 
 ###Steps in visualizing the HR data
 ---
@@ -57,3 +59,20 @@ This data was  downloaded as an CSV file. The data contained document and inform
 - Promoted header
 - Added conditional column
 - Renamed column
+
+![LITA CLASS WORK 10_26_2024 6_21_17 PM](https://github.com/user-attachments/assets/2af358a4-659d-47ec-ac8e-743821afda6e)
+
+###Calculations from this data
+---
+1. Total number of current employee =(Total number of employee - Total number of Attrition)
+2. Attrition rate = (sum of attrition  count / sum of employee count)
+
+###What is Attrition
+---
+Attrition refers to a gradual reduction in the number of employees in a company due to various factors like resignations, retirements, or even deaths, without the company necessarily filling these vacancies. In a business context, attrition is often measured as a percentage and is an indicator of workforce stability.
+
+###HR Visualisation
+![LITA CLASS WORK 10_24_2024 1_08_59 PM](https://github.com/user-attachments/assets/ae6df4a6-4c85-4165-a349-7d27c0694d5a)
+
+
+
