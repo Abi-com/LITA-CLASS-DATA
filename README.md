@@ -130,6 +130,9 @@ Calculations in Both data set
 - Overall Total Sales= sum of total sale in each rigion
 - Average sale per product = overall total sales / Total quantity
 
+Visualisation For both Data Set
+---
+
 
 
 
