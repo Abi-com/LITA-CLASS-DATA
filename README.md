@@ -141,9 +141,18 @@ Visualisation For both Data Set
 ![LITA Capstone Dataset - Excel 10_26_2024 11_35_44 PM](https://github.com/user-attachments/assets/c48eac5f-c17c-4041-8dda-8ade390c37e6) Customer Data
 
 
-##Power BI Capstone 
+Power BI Capstone 
 
 BI Sale Data visualisation
+---
+![capstone LITA Final Project 10_25_2024 1_44_06 PM](https://github.com/user-attachments/assets/c4086c0c-de3d-4bb8-8474-277cac135b9f)
+
+- Total turn over is 18million
+- South has the highest number of sale, while west has the lowest sales
+- The highest product brought is hat,jacket has the lowest
+- Shoes has the highest % total sales 29.19%, socks has the lowest% total sales of 8.6% 0f the total sale
+
+BI Customer Data Visualisation
 ---
 
 
