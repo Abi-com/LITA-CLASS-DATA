@@ -51,5 +51,9 @@ This data was  downloaded as an CSV file. The data contained document and inform
 
 ###Steps in visualizing the HR data
 ---
--Downloaded the data
--
+- Downloaded the data
+- Cleaned the data
+- Changed types
+- Promoted header
+- Added conditional column
+- Renamed column
