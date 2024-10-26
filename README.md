@@ -97,6 +97,7 @@ the company should create a car   development plan for it employees, so they can
 
 #LITA_CAPSTONE_PROJECT_DOCUMENTATION
 ---
+I documented my final project here, where i worked on a sale data and customer data set through the series of excel, sql then power Bi
 
-
+[Download here]_https://docs.google.com/spreadsheets/d/12yT7pnZz6-XUSfskManIIpcUO7EBY82i?rtpof=true&usp=drive_fs
 
