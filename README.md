@@ -141,6 +141,12 @@ Visualisation For both Data Set
 ![LITA Capstone Dataset - Excel 10_26_2024 11_35_44 PM](https://github.com/user-attachments/assets/c48eac5f-c17c-4041-8dda-8ade390c37e6) Customer Data
 
 
+##Power BI Capstone 
+
+BI Sale Data visualisation
+---
+
+
 
 
 
