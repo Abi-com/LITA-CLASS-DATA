@@ -71,9 +71,13 @@ What is Attrition
 ---
 Attrition refers to a gradual reduction in the number of employees in a company due to various factors like resignations, retirements, or even deaths, without the company necessarily filling these vacancies. In a business context, attrition is often measured as a percentage and is an indicator of workforce stability.
 
-###HR Visualisation
+HR Visualisation
 ---
 ![LITA CLASS WORK 10_24_2024 1_08_59 PM](https://github.com/user-attachments/assets/ae6df4a6-4c85-4165-a349-7d27c0694d5a)
+
+Facts From HR Data
+---
+
 
 
 
