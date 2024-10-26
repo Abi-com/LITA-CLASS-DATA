@@ -95,5 +95,7 @@ Advise
 the company should create a car   development plan for it employees, so they can improve the employee retention rate. Employees get to improve in their educational field and then work at the same time
 
 
+#LITA_CAPSTONE_PROJECT_DOCUMENTATION
+
 
 
