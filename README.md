@@ -116,5 +116,13 @@ Sale data
 
 ![LITA Capstone Dataset - Excel 10_26_2024 10_32_37 PM](https://github.com/user-attachments/assets/c210242c-3a35-45a7-ba1e-95edd64535b9) Cuctomer data
 
+Pivot Tables for Each Data set
+---
+![LITA Capstone Dataset - Excel 10_26_2024 10_43_58 PM](https://github.com/user-attachments/assets/409da653-6797-495c-8b21-184c39322a64)Sale data
+
+![LITA Capstone Dataset - Excel 10_26_2024 10_43_18 PM](https://github.com/user-attachments/assets/06249ead-f94d-4dd2-a969-7bfe7f4478c2) customer data
+
+
+
 
 
