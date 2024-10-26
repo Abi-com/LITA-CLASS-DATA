@@ -88,7 +88,11 @@ Facts From HR Data
 2. life science field has the highest amount of attrition 89 followed by medical field 63, while Human resources field has 7 attriton count, why?
 3. Male gender has an attrition count of 150(63.29%), female has 87(36.71%)
 
-- W
+- WE noticed that the rate of attrition of employee in the life science and medical educational field are on the high side, which is due to the nature of their field it require constant development
+
+Advise
+---
+the company should create a car   development plan for it employees, so they can improve the employee retention rate. Employees get to improve in their educational field and then work at the same time
 
 
 
