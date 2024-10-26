@@ -75,9 +75,21 @@ HR Visualisation
 ---
 ![LITA CLASS WORK 10_24_2024 1_08_59 PM](https://github.com/user-attachments/assets/ae6df4a6-4c85-4165-a349-7d27c0694d5a)
 
--Total employee was gotten from employee count
--
+- Total employee was gotten from employee count
+- Total number of current employee =(Total number of employee - Total number of Attrition), which was displayed using card visual tool
+- Average age was also gotten from CF-age band column, which was made possible by the use of measure
+-  Attrition rate = (sum of attrition  count / sum of employee count) 16%
+-  Doughnut chat showing the attrition count by department
+-  Bar chart to visualise the count of attrition count by educational field
+-  Pie chart shows the amount of attrition by gender
 
+Facts From HR Data
+---
+1. R$D  Department has the highest level of attrition count 133(56.12%),HR Department has the least attrition count 12(38.06%)
+2. life science field has the highest amount of attrition 89 followed by medical field 63, while Human resources field has 7 attriton count, why?
+3. Male gender has an attrition count of 150(63.29%), female has 87(36.71%)
+
+##
 
 
 
