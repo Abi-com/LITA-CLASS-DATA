@@ -41,7 +41,7 @@ EDA involves the exploring of data to answer some question about the Data such a
 ![image](https://github.com/user-attachments/assets/71c485af-2b82-4bef-a9f7-451a566471c6)
 
 
-LITA_POWER BI_ DOCUNENTATION
+#LITA_POWER BI_ DOCUNENTATION
 
 BI Class Preview
 ---
@@ -75,8 +75,8 @@ HR Visualisation
 ---
 ![LITA CLASS WORK 10_24_2024 1_08_59 PM](https://github.com/user-attachments/assets/ae6df4a6-4c85-4165-a349-7d27c0694d5a)
 
-Facts From HR Data
----
+-Total employee was gotten from employee count
+-
 
 
 
