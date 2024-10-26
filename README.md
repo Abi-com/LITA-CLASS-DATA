@@ -41,3 +41,15 @@ EDA involves the exploring of data to answer some question about the Data such a
 ![image](https://github.com/user-attachments/assets/71c485af-2b82-4bef-a9f7-451a566471c6)
 
 **#LITA_POWER BI_ DOCUNENTATION**
+###BI Class Preview
+---
+We went through data entry, Data cleaning using a columinal data. practise Power BI using an HR data
+
+###HR Data Source
+---
+This data was  downloaded as an CSV file. The data contained document and information about a companyemployee,stating each employee businesstravel,age band,department,gender, educational field, job role, marital starus etc....
+
+###Steps in visualizing the HR data
+---
+-Downloaded the data
+-
