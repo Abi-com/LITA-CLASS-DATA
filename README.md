@@ -154,6 +154,23 @@ BI Sale Data visualisation
 
 BI Customer Data Visualisation
 ---
+![capstone LITA Final Project 10_27_2024 12_40_16 AM](https://github.com/user-attachments/assets/0441732b-244f-4ecf-a825-a0a65917069e)
+
+- Basic subscription has thehighest % of cancled subscription by 50% the total revenue
+- April 2022 has the lowest revenue
+- Premium subscription  has a total revenew of 17M, 25% of cancled subscription. it highest revenew was in june 2023
+- Standard subscription has a total revenue of 17M, 24.92% of cancled subscription
+- East region has the highest revenue, north is the least
+
+ Overall Conclustion 
+ ---
+
+ Customers subscription purchase is determined by many factors ranging from;
+ 1. Money factor
+ 2. Regional factor
+ 3. Time and seasons of the year
+ 4. Kids & Children factor
+
 
 
 
